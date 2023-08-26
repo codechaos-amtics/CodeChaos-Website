@@ -41,11 +41,11 @@ We welcome contributions from all club members and coding enthusiasts! If you'd 
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact us at [codechaos.amtics@gmail.com](mailto:codechaos.amtics@gmail.com) .
+If you have any questions, suggestions, or feedback, feel free to contact us at [pankajbind30@gmail.com](mailto:pankajbind30@gmail.com) .
 
 ---
 
